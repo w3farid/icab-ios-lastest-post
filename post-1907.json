@@ -5,6 +5,9 @@
   "slug": "icab-and-ifc-host-high-level-roundtable-showcasing-pipeline-of-board-ready-female-chartered-accountants-to-strengthen-corporate-governance",
   "title": "ICAB and IFC Host High-Level Roundtable Showcasing Pipeline of Board-Ready Female Chartered Accountants to Strengthen Corporate Governance",
   "source_url": "https://www.icab.org.bd/publication/news/1/1907/ICAB-and-IFC-Host-High-Level-Roundtable-Showcasing-Pipeline-of-Board-Ready-Female-Chartered-Accountants-to-Strengthen-Corporate-Governance",
+  "image": "images/1907.png",
+  "image_url": "https://raw.githubusercontent.com/w3farid/icab-ios-lastest-post/main/images/1907.png",
+  "image_github_url": "https://github.com/w3farid/icab-ios-lastest-post/blob/main/images/1907.png",
   "published_date": "2025-12-11",
   "location": "CA Bhaban, Dhaka, Bangladesh",
   "organizations": [
@@ -71,7 +74,7 @@
       "order": 1,
       "type": "image",
       "description": "Press-event image likely showing the ICAB-IFC roundtable session.",
-      "source": "not directly accessible from ICAB page in current environment"
+      "source": "https://raw.githubusercontent.com/w3farid/icab-ios-lastest-post/main/images/1907.png"
     }
   ],
   "tags": [
