@@ -307,7 +307,7 @@
       "published_date": "2023-11-27 16:24:22",
       "short_description": "Bangladesh labour force has significant contribution to the growth of its economy. About 58.2% of people are engaged in different sectors of economy.",
       "image": "images/1121.jpg",
-      "image_url": "https://www.icab.org.bd/icabadmin/uploads/news/1121/icab-65646e5167332.jpg",
+      "image_url": "https://raw.githubusercontent.com/w3farid/icab-ios-lastest-post/main/images/1121.png",
       "details_image_url": "https://www.icab.org.bd/icabadmin/uploads/news/1121/icab-65646e516bbcf.jpg",
       "list_image_url": "https://www.icab.org.bd/icabadmin/uploads/news/1121/icab-65646e516474f.jpg",
       "highlighted_image_url": "https://www.icab.org.bd/icabadmin/uploads/news/1121/icab-65646e515bfa9.jpg",
@@ -366,7 +366,7 @@
       "source_url": "https://www.icab.org.bd/publication/news/4/337/ICAB%E2%80%99s-Scheduled-Audit-Fees,-Audit-Fees-Deviation-and-the-Audit-Fees-of-the-Listed-Companies-in-Bangladesh",
       "published_date": "2022-03-20 12:13:49",
       "short_description": "The Institute of Chartered Accountants of Bangladesh (ICAB) has formulated a fee schedule for a reasonable level of audit fees to provide quality audit with the utmost professional care.",
-      "image_url": "https://www.icab.org.bd/icabadmin/uploads/news/337/icab-64cbb5f9773f6.jpg",
+      "image_url": "https://raw.githubusercontent.com/w3farid/icab-ios-lastest-post/main/images/337.png",
       "details_image_url": "https://www.icab.org.bd/icabadmin/uploads/news/337/icab-64cbb5f97c18a.jpg",
       "list_image_url": "https://www.icab.org.bd/icabadmin/uploads/news/337/icab-64cbb5f971d97.jpg",
       "highlighted_image_url": "https://www.icab.org.bd/icabadmin/uploads/news/337/icab-64cbb5f968e12.jpg",
@@ -431,7 +431,7 @@
       "source_url": "https://www.icab.org.bd/publication/news/4/1238/Unveiling-the-Powerhouse-:-SMEs-in-Bangladesh---Credit-Challenges-and-Growth-Strategies",
       "published_date": "2024-03-09 12:14:53",
       "short_description": "This article delves into the Small and Medium-sized Enterprises (SME) sector in Bangladesh, highlighting its pivotal role in regional development, poverty alleviation, innovation, and employment generation.",
-      "image_url": "https://www.icab.org.bd/icabadmin/uploads/news/1238/icab-65ebfe5526caa.jpg",
+      "image_url": "https://raw.githubusercontent.com/w3farid/icab-ios-lastest-post/main/images/1238.png",
       "details_image_url": "https://www.icab.org.bd/icabadmin/uploads/news/1238/icab-65ebfe552b480.jpg",
       "list_image_url": "https://www.icab.org.bd/icabadmin/uploads/news/1238/icab-65ebfe5523835.jpg",
       "highlighted_image_url": "https://www.icab.org.bd/icabadmin/uploads/news/1238/icab-65ebfe55104be.jpg",
@@ -492,7 +492,7 @@
       "source_url": "https://www.icab.org.bd/publication/news/5/490/Russia-Ukraine-War-Impact-on-Bangladesh%E2%80%99s-Economy",
       "published_date": "2022-08-28 10:40:11",
       "short_description": "Russia-Ukraine War Impact on Bangladesh’s Economy",
-      "image_url": "https://www.icab.org.bd/icabadmin/uploads/news/490/icab-630aefafaeb4f.jpg",
+      "image_url": "https://raw.githubusercontent.com/w3farid/icab-ios-lastest-post/main/images/490.png",
       "details_image_url": "https://www.icab.org.bd/icabadmin/uploads/news/490/icab-630aefafb5eb3.jpg",
       "list_image_url": "https://www.icab.org.bd/icabadmin/uploads/news/490/icab-630aefafabab7.jpg",
       "highlighted_image_url": "https://www.icab.org.bd/icabadmin/uploads/news/490/icab-630aefafa38b2.jpg",
@@ -540,6 +540,113 @@
         "status": "api_scrape",
         "notes": [
           "Fetched from ICAB publication API endpoint v1/news/5/490/details.",
+          "Image URLs were taken from the API image object and HTML description body."
+        ]
+      }
+    },
+    {
+      "id": 1874,
+      "type": "news",
+      "category_id": 1,
+      "slug": "Accounting-Day-Run-2025",
+      "title": "Accounting Day Run 2025",
+      "author": "The Institute of Chartered Accountants of Bangladesh (ICAB)",
+      "source_url": "https://www.icab.org.bd/publication/news/1/1874/Accounting-Day-Run-2025",
+      "published_date": "2025-10-29 18:13:23",
+      "short_description": "The Dhaka Regional Committee (DRC) of The Institute of Chartered Accountants of Bangladesh (ICAB) - an autonomous and premier accounting body under the Ministry of Commerce, People's Republic of Bangladesh - is organizing a signature running event, \"Accounting Day Run 2025\" on November 7, 2025, at Hatirjheel, Dhaka, in celebration of International Accounting Day.",
+      "image_url": "https://www.icab.org.bd/icabadmin/uploads/news/1874/icab-690204dea42e4.jpg",
+      "details_image_url": "https://www.icab.org.bd/icabadmin/uploads/news/1874/icab-690204deb3784.jpg",
+      "list_image_url": "https://www.icab.org.bd/icabadmin/uploads/news/1874/icab-690204de98d36.jpg",
+      "highlighted_image_url": "https://www.icab.org.bd/icabadmin/uploads/news/1874/icab-690204de5b166.jpg",
+      "body_image_urls": [
+        "https://www.icab.org.bd/icabadmin/uploads/ckeditor/9703DRC-ICAB"
+      ],
+      "description_html": "<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p><span style=\"font-family:Tahoma,Geneva,sans-serif\"><img class=\"mt-1\" src=\"https://www.icab.org.bd/icabadmin/uploads/ckeditor/9703DRC-ICAB Press Meet.jpg\" style=\"height:434px; width:610px\" /></span></p>\r\n</div>\r\n\r\n<div class=\"col-md-6\">\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">The Dhaka Regional Committee (DRC) of<strong> The Institute of Chartered Accountants of Bangladesh (ICAB) </strong>- an autonomous and premier accounting body under the Ministry of Commerce, People&#39;s Republic of Bangladesh - is organizing a signature running event, &quot;<strong>Accounting Day Run 2025</strong>&quot; on <strong>November 7, 2025,</strong> at <strong>Hatirjheel, Dhaka</strong>, in celebration of <strong>International Accounting Day</strong>.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">A press conference was organized on <strong>29 October 2025 at the CA Bhaban</strong>, Karwan Bazar, Dhaka, to mark the occasion of the <strong>&ldquo;Accounting Day Run 2025&rdquo;</strong>. They also unveiled the event T-shirt and medals, which were met with great&nbsp;enthusiasm.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">The ICAB President, <strong>N K A Mobin FCA</strong>, Chairman of Dhaka Regional Committee (DRC) <strong>Mahmudur Rahman FCA</strong>, Race Director <strong>Asifur Rahman FCA</strong>, Event Convenor <strong>Sk. Md. Tarikul Islam FCA</strong>, DRC Secretary, <strong>Md. Akizur Rahman FCA</strong>, DRC Leader, <strong>Md. Maksoudur Rahman FCA, Md. Kamruzzaman FCA</strong> and others were present to&nbsp;meet&nbsp;the&nbsp;press.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">According to the organizers, Dhaka Regional Committee (DRC) is proud to launch the first-ever <strong>&ldquo;Accounting Day Run&rdquo;,</strong> with the inspiring theme <strong>&ldquo;Fitness Meets</strong> </span></span></p>\r\n</div>\r\n</div>\r\n\r\n<p><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\"><strong>Accounting&rdquo;</strong>, aimed at promoting awareness around health, wellness, and work-life balance. They said there&rsquo;s no doubt that accountants - whether working in corporate roles or in public practice - play a crucial role in advancing our economy and society. Yet, they often endure intense workloads, stress, and anxiety, frequently at the cost of their personal well-being.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">This landmark event will feature over <strong>1,800 participants in (7.5 KM, and 1 KM). </strong>including leading Chartered Accountants, their families, CA students, corporate professionals, and running enthusiasts&mdash;creating a unique blend of professional excellence and community spirit.<strong> </strong></span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">Whereas the 1 KM category is specially designed for Kids and moms. Over <strong>200 kids</strong>, along with their mom, are participating in this category. The marathon will start from in front of the Hatirjheel Amphitheatre at 5:30 AM, traverse the track across the entire Hatirjheel area, and finish again in front of the Hatirjheel Amphitheatre. </span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">The run will also feature special appearances by renowned celebrity runners, including <strong>IRONMAN Mohammad Shamsuzzaman Arafat, Popular educator Ayman Sadiq, Endurance trainer Sajjad Hossain Snigdho, and Ultrarunner M. Mahfuzul Haq</strong> - adding further energy and inspiration&nbsp;to&nbsp;the&nbsp;event.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">A <strong>Kit Expo</strong> will be hosted on <strong>November 5, 2025, at Pan Pacific Sonargaon Hotel</strong>, where race kits and goodie bags will be distributed. This will be inaugurated by the council members of ICAB at 1:00 PM.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">The event&rsquo;s esteemed sponsors are Sprint, City Bank PLC, bKash, Shah Cement Industries Limited, Transcom Limited, and DBL Ceramics. Other event partners are Pan Pacific Sonargaon Dhaka, SMC Plus, Glucomax-D, Ispahani, CCI Bangladesh, Ruchi, Aaram, Horlicks, Maggi, Dettol, Zerocal, Milo, Nescaf&eacute;, Lovello, Gigabyte and Ibn Sina. The Media partners are The Daily Star, Samakal &amp; Jamuna Television.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\"><strong><u>Event Details:</u></strong></span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\"><strong>Event Name:</strong> Accounting Day Run 2025<br />\r\n<strong>Organized by:</strong> Dhaka Regional Committee (DRC) &ndash; ICAB</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">Kit Expo Venue: <strong>Pan Pacific Sonargaon Dhaka</strong><br />\r\nKit Expo Date: <strong>November 5, 2025</strong><br />\r\nTime: <strong>1:00 PM to 9:00 PM</strong></span></span></p>\r\n\r\n<p style=\"text-align:justify\"><br />\r\n<span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">Event Date: <strong>November 7, 2025</strong><br />\r\nEvent Venue: <strong>Hatirjheel Amphitheatre</strong><br />\r\nTime:<strong> 5:30 AM</strong></span></span></p>\r\n\r\n<p style=\"text-align:justify\"><br />\r\n<span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\"><strong>Race Category:</strong><br />\r\n- 7.5 KM<br />\r\n- 1 KM (only for Moms &amp; Kids)</span></span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p style=\"text-align:justify\">&nbsp;</p>",
+      "prev": {
+        "id": 1826,
+        "title": "Parveen Mahmud FCA, receives SAFA Lifetime Woman Leadership Award 2025",
+        "slug": "Parveen-Mahmud-FCA,-receives-SAFA-Lifetime-Woman-Leadership-Award-2025"
+      },
+      "next": {
+        "id": 1904,
+        "title": "ICAB, CIPFA Reaffirm Commitment to Advancing High-Quality PSFM, Pledge to Drive Impactful Change Globally",
+        "slug": "ICAB,-CIPFA-Reaffirm-Commitment-to-Advancing-High-Quality-PSFM,-Pledge-to-Drive-Impactful-Change-Globally"
+      },
+      "categories": [
+        {
+          "id": 1,
+          "title": "Latest News",
+          "slug": "Latest-News",
+          "category_id": 0,
+          "serial_no": 1,
+          "order_no": 1,
+          "is_published": 1,
+          "is_show_menu": 1,
+          "showing_position": 3,
+          "created_at": "2021-08-27 12:38:45",
+          "updated_at": "2021-08-27 12:38:45",
+          "deleted_at": null
+        }
+      ],
+      "tags": [
+
+      ],
+      "scraped_at": "2026-04-29",
+      "scrape_notes": {
+        "status": "api_scrape",
+        "notes": [
+          "Fetched from ICAB publication API endpoint v1/news/1/1874/details.",
+          "Image URLs were taken from the API image object and HTML description body."
+        ]
+      }
+    },
+    {
+      "id": 1998,
+      "type": "news",
+      "category_id": 1,
+      "slug": "22nd-ICAB-Convocation-2026-Held-in-Dhaka",
+      "title": "22nd ICAB Convocation 2026 Held in Dhaka",
+      "source_url": "https://www.icab.org.bd/publication/news/1/1998/22nd-ICAB-Convocation-2026-Held-in-Dhaka",
+      "published_date": "2026-04-12 12:03:26",
+      "short_description": "The Institute of Chartered Accountants of Bangladesh (ICAB) successfully held its 22nd Convocation on Saturday at the InterContinental, Dhaka, celebrating the achievements of newly qualified Chartered Accountants.",
+      "image_url": "https://www.icab.org.bd/icabadmin/uploads/news/1998/icab-69db35a86f104.jpg",
+      "details_image_url": "https://www.icab.org.bd/icabadmin/uploads/news/1998/icab-69db35a8b6923.jpg",
+      "list_image_url": "https://www.icab.org.bd/icabadmin/uploads/news/1998/icab-69db35a82dd56.jpg",
+      "highlighted_image_url": "https://www.icab.org.bd/icabadmin/uploads/news/1998/icab-69db35a79ccdb.jpg",
+      "body_image_urls": [
+        "https://www.icab.org.bd/icabadmin/uploads/ckeditor/4098photo",
+        "https://www.icab.org.bd/icabadmin/uploads/ckeditor/5902Photo"
+      ],
+      "description_html": "<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p><span style=\"font-family:Tahoma,Geneva,sans-serif\"><img class=\"mt-1\" src=\"https://www.icab.org.bd/icabadmin/uploads/ckeditor/4098photo 2.jpeg\" style=\"height:215px; width:610px\" /></span></p>\r\n</div>\r\n\r\n<div class=\"col-md-6\">\r\n<p><span style=\"font-family:Tahoma,Geneva,sans-serif\"><img class=\"mt-1\" src=\"https://www.icab.org.bd/icabadmin/uploads/ckeditor/5902Photo 1.jpeg\" style=\"height:216px; width:610px\" /></span></p>\r\n</div>\r\n</div>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">The Institute of Chartered Accountants of Bangladesh (ICAB) successfully held its 22nd Convocation on Saturday at the InterContinental, Dhaka, celebrating the achievements of newly qualified Chartered Accountants.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">Mr. Zahir Uddin Swapon, MP, Honorable Minister for Information and Broadcasting, Government of the People&rsquo;s Republic of Bangladesh, attended the occasion as the Chief Guest. In his address, he congratulated the CAs for attaining one of the most rigorous professional qualifications and emphasized the vital role Chartered Accountants play in ensuring financial transparency, strengthening governance, and driving sustainable economic growth.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">Highlighting the evolving global landscape, the Chief Guest noted that the profession is undergoing rapid transformation due to technological advancements such as artificial intelligence and data analytics. He encouraged the new CAs to embrace innovation, adapt to change, and position themselves as strategic leaders and trusted advisors in both public and private sectors. He also underscored the importance of integrity, stating that trust remains the cornerstone of the accountancy profession.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">Dr. Md Sajjad Hossain Bhuiyan, Chairman, Financial Reporting Council (FRC), was present as Special Guest. Dr. Salimullah Khan, Professor at North South University, delivered the Convocation Speech. In his address, he described Chartered Accountants as key intellectual contributors to economic and social systems, emphasizing their broader role beyond technical functions.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">ICAB President Mr. NKA Mobin FCA, in his foreword, extended heartfelt congratulations to the newly qualified members who completed their examinations between November&ndash;December 2022 and November&ndash;December 2025. He highlighted ICAB&rsquo;s longstanding commitment to upholding global standards in professional education and serving the public interest since its establishment in 1973.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">The President also reminded the CAs of their responsibility to uphold the highest standards of ethics, integrity, and professionalism, urging them to contribute meaningfully to national development. He encouraged them to pursue lifelong learning, embrace leadership roles, and remain resilient in an ever-changing professional environment.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">The Convocation marked a significant milestone for the CAs and their families, recognizing years of dedication, discipline, and perseverance. The ceremony concluded with a call for the new Chartered Accountants to serve the nation with commitment, contribute to economic progress, and uphold the values of the profession.</span></span></p>",
+      "prev": {
+        "id": 1947,
+        "title": "Special News Bulletin on SAFA International Conference 2026",
+        "slug": "Special-News-Bulletin-on-SAFA-International-Conference-2026"
+      },
+      "categories": [
+        {
+          "id": 1,
+          "title": "Latest News",
+          "slug": "Latest-News",
+          "category_id": 0,
+          "serial_no": 1,
+          "order_no": 1,
+          "is_published": 1,
+          "is_show_menu": 1,
+          "showing_position": 3,
+          "created_at": "2021-08-27 12:38:45",
+          "updated_at": "2021-08-27 12:38:45",
+          "deleted_at": null
+        }
+      ],
+      "tags": [
+
+      ],
+      "scraped_at": "2026-04-29",
+      "scrape_notes": {
+        "status": "api_scrape",
+        "notes": [
+          "Fetched from ICAB publication API endpoint v1/news/1/1998/details.",
           "Image URLs were taken from the API image object and HTML description body."
         ]
       }

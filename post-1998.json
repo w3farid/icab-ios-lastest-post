@@ -1,0 +1,51 @@
+{
+  "id": 1998,
+  "type": "news",
+  "category_id": 1,
+  "slug": "22nd-ICAB-Convocation-2026-Held-in-Dhaka",
+  "title": "22nd ICAB Convocation 2026 Held in Dhaka",
+  "source_url": "https://www.icab.org.bd/publication/news/1/1998/22nd-ICAB-Convocation-2026-Held-in-Dhaka",
+  "published_date": "2026-04-12 12:03:26",
+  "short_description": "The Institute of Chartered Accountants of Bangladesh (ICAB) successfully held its 22nd Convocation on Saturday at the InterContinental, Dhaka, celebrating the achievements of newly qualified Chartered Accountants.",
+  "image_url": "https://www.icab.org.bd/icabadmin/uploads/news/1998/icab-69db35a86f104.jpg",
+  "details_image_url": "https://www.icab.org.bd/icabadmin/uploads/news/1998/icab-69db35a8b6923.jpg",
+  "list_image_url": "https://www.icab.org.bd/icabadmin/uploads/news/1998/icab-69db35a82dd56.jpg",
+  "highlighted_image_url": "https://www.icab.org.bd/icabadmin/uploads/news/1998/icab-69db35a79ccdb.jpg",
+  "body_image_urls": [
+    "https://www.icab.org.bd/icabadmin/uploads/ckeditor/4098photo",
+    "https://www.icab.org.bd/icabadmin/uploads/ckeditor/5902Photo"
+  ],
+  "description_html": "<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p><span style=\"font-family:Tahoma,Geneva,sans-serif\"><img class=\"mt-1\" src=\"https://www.icab.org.bd/icabadmin/uploads/ckeditor/4098photo 2.jpeg\" style=\"height:215px; width:610px\" /></span></p>\r\n</div>\r\n\r\n<div class=\"col-md-6\">\r\n<p><span style=\"font-family:Tahoma,Geneva,sans-serif\"><img class=\"mt-1\" src=\"https://www.icab.org.bd/icabadmin/uploads/ckeditor/5902Photo 1.jpeg\" style=\"height:216px; width:610px\" /></span></p>\r\n</div>\r\n</div>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">The Institute of Chartered Accountants of Bangladesh (ICAB) successfully held its 22nd Convocation on Saturday at the InterContinental, Dhaka, celebrating the achievements of newly qualified Chartered Accountants.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">Mr. Zahir Uddin Swapon, MP, Honorable Minister for Information and Broadcasting, Government of the People&rsquo;s Republic of Bangladesh, attended the occasion as the Chief Guest. In his address, he congratulated the CAs for attaining one of the most rigorous professional qualifications and emphasized the vital role Chartered Accountants play in ensuring financial transparency, strengthening governance, and driving sustainable economic growth.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">Highlighting the evolving global landscape, the Chief Guest noted that the profession is undergoing rapid transformation due to technological advancements such as artificial intelligence and data analytics. He encouraged the new CAs to embrace innovation, adapt to change, and position themselves as strategic leaders and trusted advisors in both public and private sectors. He also underscored the importance of integrity, stating that trust remains the cornerstone of the accountancy profession.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">Dr. Md Sajjad Hossain Bhuiyan, Chairman, Financial Reporting Council (FRC), was present as Special Guest. Dr. Salimullah Khan, Professor at North South University, delivered the Convocation Speech. In his address, he described Chartered Accountants as key intellectual contributors to economic and social systems, emphasizing their broader role beyond technical functions.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">ICAB President Mr. NKA Mobin FCA, in his foreword, extended heartfelt congratulations to the newly qualified members who completed their examinations between November&ndash;December 2022 and November&ndash;December 2025. He highlighted ICAB&rsquo;s longstanding commitment to upholding global standards in professional education and serving the public interest since its establishment in 1973.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">The President also reminded the CAs of their responsibility to uphold the highest standards of ethics, integrity, and professionalism, urging them to contribute meaningfully to national development. He encouraged them to pursue lifelong learning, embrace leadership roles, and remain resilient in an ever-changing professional environment.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:16px\"><span style=\"font-family:Tahoma,Geneva,sans-serif\">The Convocation marked a significant milestone for the CAs and their families, recognizing years of dedication, discipline, and perseverance. The ceremony concluded with a call for the new Chartered Accountants to serve the nation with commitment, contribute to economic progress, and uphold the values of the profession.</span></span></p>",
+  "prev": {
+    "id": 1947,
+    "title": "Special News Bulletin on SAFA International Conference 2026",
+    "slug": "Special-News-Bulletin-on-SAFA-International-Conference-2026"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "title": "Latest News",
+      "slug": "Latest-News",
+      "category_id": 0,
+      "serial_no": 1,
+      "order_no": 1,
+      "is_published": 1,
+      "is_show_menu": 1,
+      "showing_position": 3,
+      "created_at": "2021-08-27 12:38:45",
+      "updated_at": "2021-08-27 12:38:45",
+      "deleted_at": null
+    }
+  ],
+  "tags": [
+
+  ],
+  "scraped_at": "2026-04-29",
+  "scrape_notes": {
+    "status": "api_scrape",
+    "notes": [
+      "Fetched from ICAB publication API endpoint v1/news/1/1998/details.",
+      "Image URLs were taken from the API image object and HTML description body."
+    ]
+  }
+}
