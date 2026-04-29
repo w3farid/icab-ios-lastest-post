@@ -10,6 +10,9 @@
   "source_pdf_url": "https://www.icab.org.bd/icabadmin/uploads/ckeditor/9355Bangladesh%20Accountant%20%28April-June%202023%20issue%29.pdf",
   "publication": "The Bangladesh Accountant",
   "issue": "April - June 2023",
+  "image": "images/tax.png",
+  "image_url": "https://raw.githubusercontent.com/w3farid/icab-ios-lastest-post/main/images/tax.png",
+  "image_github_url": "https://github.com/w3farid/icab-ios-lastest-post/blob/main/images/tax.png",
   "pdf_pages": {
     "start": 31,
     "end": 37
@@ -148,7 +151,7 @@
       "order": 2,
       "type": "image",
       "description": "Table showing steps in calculation of current tax as per Income Tax Act 2023.",
-      "source": "user-provided attachment"
+      "source": "https://raw.githubusercontent.com/w3farid/icab-ios-lastest-post/main/images/tax.png"
     },
     {
       "order": 3,
