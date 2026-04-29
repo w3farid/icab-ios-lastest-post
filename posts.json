@@ -1,0 +1,293 @@
+{
+  "posts": [
+    {
+      "id": 991,
+      "type": "news",
+      "category_id": 4,
+      "slug": "accounting-of-taxation-overview-of-income-tax-act-2023-in-the-eye-of-ias-12-income-taxes",
+      "title": "Accounting of Taxation: Overview of Income Tax Act 2023 in the Eye of IAS 12 Income Taxes",
+      "author": "Md Mashiur Rahaman ACA",
+      "author_bio": "Associate Member of the Institute of Chartered Accountants of Bangladesh (ICAB).",
+      "source_url": "https://www.icab.org.bd/publication/news/4/991/Accounting-of-Taxation-Overview-of-Income-Tax-Act-2023-in-the-Eye-of-IAS-12-Income-Taxes",
+      "source_pdf_url": "https://www.icab.org.bd/icabadmin/uploads/ckeditor/9355Bangladesh%20Accountant%20%28April-June%202023%20issue%29.pdf",
+      "publication": "The Bangladesh Accountant",
+      "issue": "April - June 2023",
+      "pdf_pages": {
+        "start": 31,
+        "end": 37
+      },
+      "scraped_at": "2026-04-29",
+      "summary": "The article explains how the Income Tax Act 2023 interacts with IAS 12 for current and deferred tax accounting in Bangladesh. It outlines recognition of current tax liabilities and assets, treatment of prior-year tax settlements, a practical step-by-step current tax computation flow, the difference between permanent and temporary differences, measurement issues caused by Bangladesh's tax-rate timing, and recognition principles for deferred tax liabilities and assets.",
+      "content": {
+        "highlights": [
+          "Current tax for the current and prior periods is recognised as a liability when unpaid; excess payment is recognised as an asset.",
+          "Tax loss carryback benefit is recognised as an asset when future economic benefit is probable and measurable.",
+          "In Bangladesh, tax returns are submitted with audited financial statements under Section 73 of the Income Tax Act 2023.",
+          "The article separates permanent differences from temporary differences and links temporary differences to deferred tax recognition under IAS 12.",
+          "Because Bangladesh tax rates are fixed at the end of June for the next assessment year, the article notes a practical measurement issue for reporting dates before June."
+        ],
+        "sections": [
+          {
+            "heading": "Accounting of Current Tax",
+            "points": [
+              "Recognition of current tax liabilities and current tax assets follows IAS 12.",
+              "Prior-period tax settlements arising in the current year should be reflected through current-year profit or loss as tax expense when applicable."
+            ]
+          },
+          {
+            "heading": "Steps in Calculation of Current Tax as per Income Tax Act 2023",
+            "steps": [
+              {
+                "step": 1,
+                "particular": "Profit as per audited financial statements",
+                "section_reference": "Section 73"
+              },
+              {
+                "step": 2,
+                "particular": "Add inadmissible expenses and deemed income",
+                "section_reference": "Sections 22, 23, 55"
+              },
+              {
+                "step": 3,
+                "particular": "Add transfer pricing adjustments, if any",
+                "section_reference": "Sections 233 to 239"
+              },
+              {
+                "step": 4,
+                "particular": "Add IFRS-based expenses considered separately for tax, including depreciation/amortization, bad debt, share of profit from associate, unrealized translation gain, lease liability interest and ROA depreciation, impairment loss, and share-based payments",
+                "section_reference": "Section 50 (3rd Schedule), 51, 2(81), 45(f), 45(e), 34, 55(s), 55(t)"
+              },
+              {
+                "step": 5,
+                "particular": "Less admissible expenses under ITA 2023",
+                "section_reference": "Section 50 (3rd Schedule), 51, 2(81), 45(f), 45(e), 34"
+              },
+              {
+                "step": 6,
+                "particular": "Less non-business income",
+                "section_reference": "Sections 57, 58, 66, 67, 68, 69"
+              },
+              {
+                "step": 7,
+                "particular": "Less set-off and carry-forward losses to derive income from business",
+                "section_reference": "Sections 70 to 71"
+              },
+              {
+                "step": 8,
+                "particular": "Add non-business income to derive total taxable income",
+                "section_reference": "Sections 57, 58, 66, 67, 68, 69"
+              },
+              {
+                "step": 9,
+                "particular": "Compute tax liability by applying the applicable rate",
+                "section_reference": "As per Finance Act"
+              },
+              {
+                "step": 10,
+                "particular": "Less rebate on CSR to derive tax liability",
+                "section_reference": "SRO 229/2011"
+              },
+              {
+                "step": 11,
+                "particular": "Compute minimum tax as the higher of tax deducted at source under section 163(2b) or tax on gross receipts under section 163(5)",
+                "section_reference": "Section 163"
+              },
+              {
+                "step": 12,
+                "particular": "Compare tax expense from step 10 with minimum tax from step 11 and take the higher amount",
+                "section_reference": null
+              },
+              {
+                "step": 13,
+                "particular": "Add income included under section 55 from step 2 that is taxable at the regular rate without exemption or reduced rate",
+                "section_reference": "Section 56"
+              },
+              {
+                "step": 14,
+                "particular": "Add interest on deficiency of advance tax and for filing return after Tax Day",
+                "section_reference": "Sections 160, 161 and 162"
+              },
+              {
+                "step": 15,
+                "particular": "Deduct tax deducted at source and advance tax paid to determine net tax payable on submission of return",
+                "section_reference": "Sections 120 to 139, 152 to 156"
+              }
+            ]
+          },
+          {
+            "heading": "Permanent Differences",
+            "points": [
+              "Examples discussed include transferring export quota, payments to unapproved funds, and deductions that are not admissible in specific circumstances.",
+              "The article also notes common disallowance areas such as TDS/TIN non-compliance, excessive perquisites, cash payments above limits, excessive entertainment or foreign travel costs, and certain commissions or discounts paid to shareholder directors."
+            ]
+          },
+          {
+            "heading": "Temporary Differences and Deferred Tax",
+            "points": [
+              "A temporary difference is the difference between the carrying amount of an asset or liability and its tax base.",
+              "Examples mentioned include carry-forward losses, gratuity provisions, goodwill, share-based payments, and OCI-related items.",
+              "Deferred tax liabilities are generally recognised for taxable temporary differences.",
+              "Deferred tax assets are recognised to the extent that future taxable profit is probable against which deductible temporary differences can be used."
+            ]
+          },
+          {
+            "heading": "Bangladesh Measurement Context",
+            "points": [
+              "The article highlights that tax rates in Bangladesh are fixed at the end of June for the next assessment year.",
+              "For reporting dates before June, entities may not know the applicable income tax rate at the reporting date, which creates a practical IAS 12 measurement issue."
+            ]
+          }
+        ]
+      },
+      "media": [
+        {
+          "order": 1,
+          "type": "image",
+          "description": "Portrait image associated with the article author.",
+          "source": "user-provided attachment"
+        },
+        {
+          "order": 2,
+          "type": "image",
+          "description": "Table showing steps in calculation of current tax as per Income Tax Act 2023.",
+          "source": "user-provided attachment"
+        },
+        {
+          "order": 3,
+          "type": "image",
+          "description": "Diagram explaining deferred tax liabilities, deferred tax assets, and where deferred tax is recognised.",
+          "source": "user-provided attachment"
+        }
+      ],
+      "tags": [
+        "ICAB",
+        "Bangladesh Accountant",
+        "Income Tax Act 2023",
+        "IAS 12",
+        "Current Tax",
+        "Deferred Tax",
+        "Taxation"
+      ],
+      "scrape_notes": {
+        "status": "partial_structured_scrape",
+        "notes": [
+          "The public page itself is JavaScript-rendered and did not expose HTML content directly in this environment.",
+          "The article was extracted from the linked ICAB PDF issue and summarized into structured JSON.",
+          "Images were represented from the user-provided attachments because direct page image URLs were not exposed in the accessible source."
+        ]
+      }
+    },
+    {
+      "id": 1907,
+      "type": "news",
+      "category_id": 1,
+      "slug": "icab-and-ifc-host-high-level-roundtable-showcasing-pipeline-of-board-ready-female-chartered-accountants-to-strengthen-corporate-governance",
+      "title": "ICAB and IFC Host High-Level Roundtable Showcasing Pipeline of Board-Ready Female Chartered Accountants to Strengthen Corporate Governance",
+      "source_url": "https://www.icab.org.bd/publication/news/1/1907/ICAB-and-IFC-Host-High-Level-Roundtable-Showcasing-Pipeline-of-Board-Ready-Female-Chartered-Accountants-to-Strengthen-Corporate-Governance",
+      "published_date": "2025-12-11",
+      "location": "CA Bhaban, Dhaka, Bangladesh",
+      "organizations": [
+        "Institute of Chartered Accountants of Bangladesh (ICAB)",
+        "International Finance Corporation (IFC)",
+        "Bangladesh Securities and Exchange Commission (BSEC)"
+      ],
+      "scraped_at": "2026-04-29",
+      "summary": "ICAB and IFC jointly hosted a high-level roundtable on inclusive governance and independent directorship to strengthen Bangladesh's pipeline of women independent directors. The event highlighted that only 138 of 360 listed companies had complied with the women independent director requirement by December 11, 2025, while ICAB research identified 21 female chartered accountants already serving on boards and 134 additional women chartered accountants who were considered board-ready.",
+      "content": {
+        "highlights": [
+          "The roundtable focused on inclusive governance and independent directorship.",
+          "BSEC Commissioner Farzana Lalarukh said only 138 of 360 listed companies had complied with the women independent director requirement by December 11, 2025, despite the deadline being extended to December 31, 2025.",
+          "ICAB President NKA Mobin said boards need access to skilled and diverse talent and pointed to a growing pipeline of women chartered accountants prepared for independent director roles.",
+          "ICAB Gender Inclusion and Leadership Committee Chair Zareen Mahmud Hosein said ICAB would begin structured independent director training with IFC in 2026.",
+          "ICAB survey findings presented by Sanjida Kasem reported that 21 female chartered accountants were already serving on boards and 134 more were fully board-ready, with most holding postgraduate qualifications."
+        ],
+        "sections": [
+          {
+            "heading": "Event Focus",
+            "points": [
+              "The event brought together regulators, corporate leaders, governance experts, and development partners.",
+              "Its central goal was to strengthen corporate governance by expanding the pipeline of qualified women independent directors."
+            ]
+          },
+          {
+            "heading": "Regulatory Context",
+            "points": [
+              "The women independent director requirement for listed companies remained under implementation in Bangladesh.",
+              "The compliance deadline had been extended to December 31, 2025, but progress remained incomplete at the time of the event."
+            ]
+          },
+          {
+            "heading": "Pipeline Data",
+            "points": [
+              "ICAB's survey identified 21 female chartered accountants already holding board positions.",
+              "An additional 134 female chartered accountants were identified as board-ready.",
+              "The reported talent pool was positioned as evidence that governance bodies and listed companies had access to qualified female candidates."
+            ]
+          },
+          {
+            "heading": "Key Messages from Speakers",
+            "points": [
+              "Farzana Lalarukh emphasized stronger governance standards and the practical need for better director training.",
+              "NKA Mobin stressed that boards should have access to diverse and skilled professionals.",
+              "Zareen Mahmud Hosein pointed to upcoming structured training with IFC as a next institutional step.",
+              "Lopa Rahman of IFC highlighted global evidence connecting gender-diverse boards with better governance and business performance."
+            ]
+          },
+          {
+            "heading": "Other Participants Mentioned in Coverage",
+            "participants": [
+              "Syed Mahbub Rahman, CEO of Mutual Trust Bank PLC",
+              "Syed Nasim Manzur, Managing Director of Apex Footwear",
+              "Kamran T. Rahman, President of the Metropolitan Chamber of Commerce and Industry",
+              "Farzana Chowdhury, Managing Director and CEO of Green Delta Insurance",
+              "Hossain Sadat, President of the Institute of Chartered Secretaries of Bangladesh"
+            ]
+          }
+        ]
+      },
+      "media": [
+        {
+          "order": 1,
+          "type": "image",
+          "description": "Press-event image likely showing the ICAB-IFC roundtable session.",
+          "source": "not directly accessible from ICAB page in current environment"
+        }
+      ],
+      "tags": [
+        "ICAB",
+        "IFC",
+        "Corporate Governance",
+        "Independent Directors",
+        "Women Leadership",
+        "Board-Ready Female Chartered Accountants",
+        "Bangladesh"
+      ],
+      "sources": [
+        {
+          "name": "Bangladesh Sangbad Sangstha (BSS)",
+          "url": "https://www.bssnews.net/business/341081"
+        },
+        {
+          "name": "New Age",
+          "url": "https://www.newagebd.net/post/mis/284982/icab-ifc-host-roundtable-on-inclusive-governance"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://online-d11.thedailystar.net/business/news/bsec-create-pool-independent-directors-ease-appointments-4056241"
+        },
+        {
+          "name": "The Opinion Bangladesh",
+          "url": "https://tob.news/icab-identifies-134-board-ready-female-chartered-accountants/"
+        }
+      ],
+      "scrape_notes": {
+        "status": "secondary_source_structured_scrape",
+        "notes": [
+          "The ICAB page itself is JavaScript-rendered and did not expose article HTML directly in this environment.",
+          "This JSON was reconstructed from multiple secondary news reports that consistently described the same event on December 11, 2025.",
+          "Direct image URL, exact ICAB article body text, and any hidden metadata from the original page were not accessible."
+        ]
+      }
+    }
+  ]
+}

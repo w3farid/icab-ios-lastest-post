@@ -1,0 +1,112 @@
+{
+  "id": 1907,
+  "type": "news",
+  "category_id": 1,
+  "slug": "icab-and-ifc-host-high-level-roundtable-showcasing-pipeline-of-board-ready-female-chartered-accountants-to-strengthen-corporate-governance",
+  "title": "ICAB and IFC Host High-Level Roundtable Showcasing Pipeline of Board-Ready Female Chartered Accountants to Strengthen Corporate Governance",
+  "source_url": "https://www.icab.org.bd/publication/news/1/1907/ICAB-and-IFC-Host-High-Level-Roundtable-Showcasing-Pipeline-of-Board-Ready-Female-Chartered-Accountants-to-Strengthen-Corporate-Governance",
+  "published_date": "2025-12-11",
+  "location": "CA Bhaban, Dhaka, Bangladesh",
+  "organizations": [
+    "Institute of Chartered Accountants of Bangladesh (ICAB)",
+    "International Finance Corporation (IFC)",
+    "Bangladesh Securities and Exchange Commission (BSEC)"
+  ],
+  "scraped_at": "2026-04-29",
+  "summary": "ICAB and IFC jointly hosted a high-level roundtable on inclusive governance and independent directorship to strengthen Bangladesh's pipeline of women independent directors. The event highlighted that only 138 of 360 listed companies had complied with the women independent director requirement by December 11, 2025, while ICAB research identified 21 female chartered accountants already serving on boards and 134 additional women chartered accountants who were considered board-ready.",
+  "content": {
+    "highlights": [
+      "The roundtable focused on inclusive governance and independent directorship.",
+      "BSEC Commissioner Farzana Lalarukh said only 138 of 360 listed companies had complied with the women independent director requirement by December 11, 2025, despite the deadline being extended to December 31, 2025.",
+      "ICAB President NKA Mobin said boards need access to skilled and diverse talent and pointed to a growing pipeline of women chartered accountants prepared for independent director roles.",
+      "ICAB Gender Inclusion and Leadership Committee Chair Zareen Mahmud Hosein said ICAB would begin structured independent director training with IFC in 2026.",
+      "ICAB survey findings presented by Sanjida Kasem reported that 21 female chartered accountants were already serving on boards and 134 more were fully board-ready, with most holding postgraduate qualifications."
+    ],
+    "sections": [
+      {
+        "heading": "Event Focus",
+        "points": [
+          "The event brought together regulators, corporate leaders, governance experts, and development partners.",
+          "Its central goal was to strengthen corporate governance by expanding the pipeline of qualified women independent directors."
+        ]
+      },
+      {
+        "heading": "Regulatory Context",
+        "points": [
+          "The women independent director requirement for listed companies remained under implementation in Bangladesh.",
+          "The compliance deadline had been extended to December 31, 2025, but progress remained incomplete at the time of the event."
+        ]
+      },
+      {
+        "heading": "Pipeline Data",
+        "points": [
+          "ICAB's survey identified 21 female chartered accountants already holding board positions.",
+          "An additional 134 female chartered accountants were identified as board-ready.",
+          "The reported talent pool was positioned as evidence that governance bodies and listed companies had access to qualified female candidates."
+        ]
+      },
+      {
+        "heading": "Key Messages from Speakers",
+        "points": [
+          "Farzana Lalarukh emphasized stronger governance standards and the practical need for better director training.",
+          "NKA Mobin stressed that boards should have access to diverse and skilled professionals.",
+          "Zareen Mahmud Hosein pointed to upcoming structured training with IFC as a next institutional step.",
+          "Lopa Rahman of IFC highlighted global evidence connecting gender-diverse boards with better governance and business performance."
+        ]
+      },
+      {
+        "heading": "Other Participants Mentioned in Coverage",
+        "participants": [
+          "Syed Mahbub Rahman, CEO of Mutual Trust Bank PLC",
+          "Syed Nasim Manzur, Managing Director of Apex Footwear",
+          "Kamran T. Rahman, President of the Metropolitan Chamber of Commerce and Industry",
+          "Farzana Chowdhury, Managing Director and CEO of Green Delta Insurance",
+          "Hossain Sadat, President of the Institute of Chartered Secretaries of Bangladesh"
+        ]
+      }
+    ]
+  },
+  "media": [
+    {
+      "order": 1,
+      "type": "image",
+      "description": "Press-event image likely showing the ICAB-IFC roundtable session.",
+      "source": "not directly accessible from ICAB page in current environment"
+    }
+  ],
+  "tags": [
+    "ICAB",
+    "IFC",
+    "Corporate Governance",
+    "Independent Directors",
+    "Women Leadership",
+    "Board-Ready Female Chartered Accountants",
+    "Bangladesh"
+  ],
+  "sources": [
+    {
+      "name": "Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://www.bssnews.net/business/341081"
+    },
+    {
+      "name": "New Age",
+      "url": "https://www.newagebd.net/post/mis/284982/icab-ifc-host-roundtable-on-inclusive-governance"
+    },
+    {
+      "name": "The Daily Star",
+      "url": "https://online-d11.thedailystar.net/business/news/bsec-create-pool-independent-directors-ease-appointments-4056241"
+    },
+    {
+      "name": "The Opinion Bangladesh",
+      "url": "https://tob.news/icab-identifies-134-board-ready-female-chartered-accountants/"
+    }
+  ],
+  "scrape_notes": {
+    "status": "secondary_source_structured_scrape",
+    "notes": [
+      "The ICAB page itself is JavaScript-rendered and did not expose article HTML directly in this environment.",
+      "This JSON was reconstructed from multiple secondary news reports that consistently described the same event on December 11, 2025.",
+      "Direct image URL, exact ICAB article body text, and any hidden metadata from the original page were not accessible."
+    ]
+  }
+}
