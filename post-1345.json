@@ -1,0 +1,85 @@
+{
+  "id": 1345,
+  "type": "news",
+  "category_id": 4,
+  "slug": "Income-Tax-Assessment-Manually-in-Digital-Bangladesh",
+  "title": "Income Tax Assessment Manually in Digital Bangladesh",
+  "author": "Nur Ahammed Suprim FCA",
+  "author_bio": "Fellow Member of the Institute of Chartered Accountants of Bangladesh (ICAB).",
+  "source_url": "https://www.icab.org.bd/publication/news/4/1345/Income-Tax-Assessment-Manually-in-Digital-Bangladesh",
+  "source_pdf_url": "https://www.icab.org.bd/icabadmin/uploads/ckeditor/5607The%20Bangladesh%20Accountant_January-March%202024.pdf",
+  "publication": "The Bangladesh Accountant",
+  "issue": "January - March 2024",
+  "image": "images/tax.png",
+  "image_url": "https://raw.githubusercontent.com/w3farid/icab-ios-lastest-post/main/images/tax.png",
+  "image_github_url": "https://github.com/w3farid/icab-ios-lastest-post/blob/main/images/tax.png",
+  "pdf_pages": {
+    "start": 112,
+    "end": 115
+  },
+  "scraped_at": "2026-05-04",
+  "summary": "This article examines why Bangladesh still relies heavily on manual income tax assessment after return submission, arguing that the paper-heavy process introduces bureaucracy, inefficiency, bias, and operational risk. It contrasts partially digitized taxpayer-facing steps with the still-manual internal assessment workflow and frames the issue as a policy and administrative reform challenge.",
+  "content": {
+    "highlights": [
+      "The article argues that post-return income tax assessment in Bangladesh remains largely manual despite broader digital progress.",
+      "It describes manual notices, hearings, document submissions, follow-up, and order preparation as major sources of bureaucracy.",
+      "It states that e-TIN registration and tax deducted at source management are more digitized than later assessment stages.",
+      "It links manual assessment practices with inefficiency, bias, record-keeping weakness, and taxpayer suffering.",
+      "The write-up frames digitization of the assessment process as an important reform issue for Bangladesh."
+    ],
+    "sections": [
+      {
+        "heading": "Why the Issue Matters",
+        "points": [
+          "Tax is described as a main public revenue source for Bangladesh.",
+          "Because millions of taxpayers are affected, weaknesses in assessment administration have broad economic consequences."
+        ]
+      },
+      {
+        "heading": "Manual Workflow After Return Submission",
+        "points": [
+          "The article distinguishes between filing and the later assessment stage handled by the tax authority.",
+          "Notices, hearings, document submission, follow-up, and typing of assessment orders are presented as still heavily manual."
+        ]
+      },
+      {
+        "heading": "Partial Digitization",
+        "points": [
+          "e-TIN registration and some TDS management functions are noted as online processes.",
+          "Return submission and appeal processes are described as only partially digital in practice."
+        ]
+      },
+      {
+        "heading": "Administrative Risks",
+        "points": [
+          "The write-up points to inefficiency, bias, and error in a manual assessment environment.",
+          "It also notes the absence of robust centralized archival and backup practices in tax administration."
+        ]
+      },
+      {
+        "heading": "Reform Direction",
+        "points": [
+          "The article implies that Bangladesh should modernize internal assessment processes, not only taxpayer-facing entry points.",
+          "A more end-to-end digital workflow is presented as the cleaner long-term solution."
+        ]
+      }
+    ]
+  },
+  "tags": [
+    "ICAB",
+    "The Bangladesh Accountant",
+    "Income Tax",
+    "Tax Assessment",
+    "Digital Bangladesh",
+    "Tax Administration",
+    "Bangladesh"
+  ],
+  "scrape_notes": {
+    "status": "partial_structured_scrape",
+    "notes": [
+      "This entry was structured from searchable ICAB journal PDF snippets rather than the publication API.",
+      "Metadata and summary were derived from the January-March 2024 issue PDF and indexed search text.",
+      "The page range is based on the searchable PDF issue context and may need refinement if you later fetch the full article directly."
+    ]
+  }
+}

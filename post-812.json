@@ -1,0 +1,85 @@
+{
+  "id": 812,
+  "type": "news",
+  "category_id": 4,
+  "slug": "A-Guide-to-Submission-of-Income-Tax-Return",
+  "title": "A Guide to Submission of Income Tax Return",
+  "author": "Md. Mobarock Hossain ACA",
+  "author_bio": "Associate Member of the Institute of Chartered Accountants of Bangladesh (ICAB).",
+  "source_url": "https://www.icab.org.bd/publication/news/4/812/A-Guide-to-Submission-of-Income-Tax-Return",
+  "source_pdf_url": "https://www.icab.org.bd/icabadmin/uploads/ckeditor/8979ICAB%20Jorunal%20%28October-December%202022%29.pdf",
+  "publication": "The Bangladesh Accountant",
+  "issue": "October - December 2022",
+  "image": "images/tax.png",
+  "image_url": "https://raw.githubusercontent.com/w3farid/icab-ios-lastest-post/main/images/tax.png",
+  "image_github_url": "https://github.com/w3farid/icab-ios-lastest-post/blob/main/images/tax.png",
+  "pdf_pages": {
+    "start": 21,
+    "end": 26
+  },
+  "scraped_at": "2026-05-04",
+  "summary": "This article gives individual taxpayers in Bangladesh a practical overview of income tax return filing, including who must file, the applicable tax-free thresholds under the Finance Act 2022, the November 30 filing timeline, extension options, penalties for late filing, and cautionary notes for wealth statements and non-resident taxpayers.",
+  "content": {
+    "highlights": [
+      "The article explains when an individual in Bangladesh is required to submit an income tax return.",
+      "It summarizes the tax-free income thresholds described in the Finance Act 2022 for general taxpayers and special categories.",
+      "It notes that November 30 is the regular filing deadline for individual assessees, with limited extension options.",
+      "It outlines the consequences of late filing, including fines, delay interest, and concealment penalties.",
+      "It advises taxpayers to preserve acknowledgements and supporting tax records because files may be reopened later."
+    ],
+    "sections": [
+      {
+        "heading": "Who Must File",
+        "points": [
+          "Individuals exceeding the applicable non-taxable income threshold are required to submit a return.",
+          "Some persons must file regardless of income, including certain TIN holders and persons holding specified assets or business registrations."
+        ]
+      },
+      {
+        "heading": "Thresholds and Taxpayer Categories",
+        "points": [
+          "The article references the Finance Act 2022 thresholds for general taxpayers.",
+          "It separately notes higher tax-free limits for women, third-gender taxpayers, senior citizens, persons with disabilities, and war-wounded freedom fighters."
+        ]
+      },
+      {
+        "heading": "Filing Timeline",
+        "points": [
+          "November 30 is identified as the main filing deadline for individual assessees in Bangladesh.",
+          "The write-up mentions extension options and cautions taxpayers not to wait until the final day."
+        ]
+      },
+      {
+        "heading": "Penalties and Practical Risks",
+        "points": [
+          "Late filing may trigger fines, delay interest, and additional penalties depending on the facts.",
+          "The article warns taxpayers to complete wealth statements carefully and maintain supporting records for future review."
+        ]
+      },
+      {
+        "heading": "Non-resident Context",
+        "points": [
+          "The article briefly discusses the treatment of non-resident taxpayers and when filing may not be mandatory.",
+          "It notes that non-residents are taxed on Bangladesh-source income."
+        ]
+      }
+    ]
+  },
+  "tags": [
+    "ICAB",
+    "The Bangladesh Accountant",
+    "Income Tax",
+    "Tax Return",
+    "Bangladesh",
+    "Finance Act 2022",
+    "Tax Compliance"
+  ],
+  "scrape_notes": {
+    "status": "partial_structured_scrape",
+    "notes": [
+      "This entry was structured from searchable ICAB journal PDF snippets rather than the publication API.",
+      "Metadata and summary were derived from the October-December 2022 issue PDF and indexed search text.",
+      "The page range is based on the searchable PDF issue context and may need refinement if you later fetch the full article directly."
+    ]
+  }
+}
